@@ -7,7 +7,12 @@
   </head>
   <body>
     <header>
-    
+      <h1>Header Logo</h1>
+      <nav>
+        <a href=""> header link one </a>
+        <a href=""> header link two </a>
+        <a href=""> header link three </a>
+      </nav>
     </header>
     
     <div id=landing> 
