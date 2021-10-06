@@ -6,7 +6,26 @@
     <link rel="stylesheet" href="css/style.css">
   </head>
   <body>
-  
+    <header>
+    
+    </header>
+    
+    <div id=landing> 
+    
+    </div>
+    
+    <div id=info>
+    
+    </div>
+    
+    <div id=quote>
+    
+    </div>
+    
+    <div id=cta>
+    
+    </div>
+    
   
   </body>
   </html>
