@@ -27,7 +27,22 @@
     </section>
     
     <section id=info>
-    
+      <h2>Some random information.</h2>
+      <div id="info-flexbox">
+        <div class="info-box">
+          <img src="" alt="">
+          <p>this is sime subtext under an illustration or imgage</p>
+        </div><div class="info-box">
+          <img src="" alt="">
+          <p>this is sime subtext under an illustration or imgage</p>
+        </div><div class="info-box">
+          <img src="" alt="">
+          <p>this is sime subtext under an illustration or imgage</p>
+        </div><div class="info-box">
+          <img src="" alt="">
+          <p>this is sime subtext under an illustration or imgage</p>
+        </div>
+      </div>
     </section>
     
     <section id=quote>
