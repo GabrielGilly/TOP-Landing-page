@@ -6,3 +6,21 @@ body{
     width: 100%;
     max-width: 800px;
 }
+/*
+Colors:
+#1F2937 --drak background
+#F9FAF8 --hero main text size 48 extra-bold
+#E5E7EB --secondary text size 18
+#F9FaF8 --header logo test size 24
+
+#3882F6 -- logo call to action
+#1F2937 -- information text size 36px extra-bold
+
+#E5E7EB -- quote sextion background
+#1F2937 -- quote size 36 light italic
+*/
+
+header{
+    width: 100%;
+    background-color: ;
+}
