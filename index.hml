@@ -2,65 +2,65 @@
 <html lang="en" dir="ltr">
   <head>
     <meta charset="utf-8">
-    <title>Landing page</title>
+    <title>Didi paradise</title>
     <link rel="stylesheet" href="style.css">
   </head>
   <body>
     <header>
-      <h1>Header Logo</h1>
+      <h1>Best Didi</h1>
       <nav>
-        <a href=""> header link one </a>
-        <a href=""> header link two </a>
-        <a href=""> header link three </a>
+        <a href="https://en.wikipedia.org/wiki/Dog"> Dogs wikipedia </a>
+        <a href="https://unsplash.com/s/photos/dogs"> More dogs pictures </a>
+        <a href="https://www.la-spa.fr/adopter/sinformer-sur-ladoption/conditions-dadoption/liste-des-especes/chiens"> Adoptions </a>
       </nav>
     </header>
     
     <section id="landing"> 
       <div id="header">
-        <h1 id="hero-header">This website is awesome</h1>
-        <p>This website has some subtext that goes here under the main title. It's a smaller font and the color is lower contrast.</p>
+        <h1 id="hero-header">Why dogs are the best Didi</h1>
+        <p>Dogs are awesome and make the best friend a human can dream of.</p>
         <form action="">
-          <button>Sign up</button>
+          <button>Adopt now!</button>
         </form>
       </div>
       <div id="img-holder"> <img src="https://images.unsplash.com/photo-1543466835-00a7907e9de1?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=774&q=80" alt="Picture of a cute didi"></div>
     </section>
     
     <section id="info">
-      <h2>Some random information.</h2>
+      <h2>Different type of dogs</h2>
       <div id="info-flexbox">
         <div class="info-box">
           <img src="https://images.unsplash.com/photo-1583512603805-3cc6b41f3edb?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=580&q=80" alt="">
-          <p>this is sub subtext under an illustration or imgage</p>
+          <p>Shy did need to pet and protected from mean pigeons.</p>
         </div><div class="info-box">
-          <img src="" alt="">
-          <p>this is sub subtext under an illustration or imgage</p>
+          <img src="https://images.unsplash.com/photo-1560807707-8cc77767d783?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=435&q=80" alt="">
+          <p>Cute didi are sneaky and will steal your food.</p>
         </div><div class="info-box">
-          <img src="" alt="">
-          <p>this is sub subtext under an illustration or imgage</p>
+          <img src="https://images.unsplash.com/photo-1546527868-ccb7ee7dfa6a?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=870&q=80" alt="">
+          <p>Very small didi can fit inside you pocket to keep them warm.</p>
         </div><div class="info-box">
-          <img src="" alt="">
-          <p>this is sub subtext under an illustration or imgage</p>
+          <img src="https://images.unsplash.com/photo-1583337130417-3346a1be7dee?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=464&q=80" alt="">
+          <p>Shy did can wear cool clothes and look like gansta.</p>
         </div>
       </div>
     </section>
     
     <section id="quote">
         <blockquote>
-          This is an inspiring quote, or a testimonial from a customer. Maybe itś just fillin up spec, or maybe people will actually read it. Who knows? All I know is that it looks nice.
+          Handle every situation like a dog. If you can’t eat it or play with it, just pee on it and walk away.
         </blockquote>
-        <p id="quote-author">-Thor, God of Thunder</p>
+        <p id="quote-author">-Didi, master of the park</p>
     </section>
     
     <section id="cta">
       <div id="cta-box">
         <div>
-          <h2>Call to action! It's time!</h2>
-          <p>Sign up for our product by clicking that button right over there!</p>
+          <h2>Adopt a Dog Today!</h2>
+          <p>Click her to get a dog scratching your door in 30min or less!</p>
         </div>
         <div>
           <form action="">
-            <button>Sign up</button>
+            <button>Adopt now !</button>
           </form>
         </div>
       </div>
